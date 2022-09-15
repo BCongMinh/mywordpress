@@ -9,9 +9,9 @@
 	<title>
 	Bình luận cho TangWEBcuatui	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://bcongminh.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 13 Sep 2022 02:04:32 +0000</lastBuildDate>
+	<link>https://bcongminh.github.io/Workdpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 14 Sep 2022 02:47:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://bcongminh.github.io/mywordpress/2022/09/13/chao-moi-nguoi/#comment-1</link>
+		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
+		<link>https://bcongminh.github.io/Workdpress/2022/09/14/hello-world/#comment-1</link>
 
-		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
-		<pubDate>Tue, 13 Sep 2022 02:04:32 +0000</pubDate>
-		<guid isPermaLink="false">https://bcongminh.github.io/mywordpress/?p=1#comment-1</guid>
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Wed, 14 Sep 2022 02:47:42 +0000</pubDate>
+		<guid isPermaLink="false">https://bcongminh.github.io/Workdpress/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

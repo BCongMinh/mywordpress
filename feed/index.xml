@@ -10,9 +10,9 @@
 <channel>
 	<title>TangWEBcuatui</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://bcongminh.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 13 Sep 2022 02:04:32 +0000</lastBuildDate>
+	<link>https://bcongminh.github.io/Workdpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 14 Sep 2022 02:47:42 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,21 +20,21 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Chào tất cả mọi người!</title>
-		<link>https://bcongminh.github.io/mywordpress/2022/09/13/chao-moi-nguoi/</link>
-					<comments>https://bcongminh.github.io/mywordpress/2022/09/13/chao-moi-nguoi/#comments</comments>
+		<title>Hello world!</title>
+		<link>https://bcongminh.github.io/Workdpress/2022/09/14/hello-world/</link>
+					<comments>https://bcongminh.github.io/Workdpress/2022/09/14/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[BCMinh]]></dc:creator>
-		<pubDate>Tue, 13 Sep 2022 02:04:32 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://bcongminh.github.io/mywordpress/?p=1</guid>
+		<pubDate>Wed, 14 Sep 2022 02:47:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://bcongminh.github.io/Workdpress/?p=1</guid>
 
-					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
-<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://bcongminh.github.io/mywordpress/2022/09/13/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://bcongminh.github.io/Workdpress/2022/09/14/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
